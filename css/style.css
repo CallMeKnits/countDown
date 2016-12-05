@@ -1,0 +1,15 @@
+html, body {
+  background:url('../img/bg.jpg') center center no-repeat;
+  height: 100%;
+  background-size:cover;
+}
+#logo img{
+  margin:0 auto;
+  padding-top: 20px;
+}
+#intro p {
+  color: white;
+  text-align: center;
+  font-family: 'Just Another Hand', cursive;
+  font-size: 1.8em;
+}
